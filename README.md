@@ -25,9 +25,7 @@ Developed for and tested with an Arduino Pro Mini (without header pins) or a clo
 ## Installation into the blaster
 Image:
 
-![schematics](schematics)
-
-[schematics]: nerf_ammo_counter.png
+[schematics](nerf_ammo_counter.png)
 
 
 EAGLE schematics file:
