@@ -23,14 +23,9 @@ Developed for and tested with an Arduino Pro Mini (without header pins) or a clo
 
 
 ## Installation into the blaster
-Image:
+Image:    [schematics](nerf_ammo_counter.png)
 
-[schematics](nerf_ammo_counter.png)
-
-
-EAGLE schematics file:
-
-[nerf_ammo_counter.sch](nerf_ammo_counter.sch)
+EAGLE schematics file:    [nerf_ammo_counter.sch](nerf_ammo_counter.sch)
 
 
 The installation is completely up to you and depends on the actual blaster of your choice.
@@ -39,9 +34,11 @@ Basics steps:
 
 * Connect the RAW and GND directly to the battery circuit of your blaster
 * Place and wire the push-button switches according to their function:
-   "firing" button has to be pressed when the trigger is depressed all the way
-   "reload" button has to be depressed when a magazine is taken out of the blaster
-   "select" button can be placed anywhere you're comfortable with
+
+   "firing" button has to be pressed when the trigger is depressed all the way  
+   "reload" button has to be depressed when a magazine is taken out of the blaster  
+   "select" button can be placed anywhere you're comfortable with  
+
 * Mount the OLED display onto your blaster and wire it (e.g. cut a hole into the shell)
 
 
